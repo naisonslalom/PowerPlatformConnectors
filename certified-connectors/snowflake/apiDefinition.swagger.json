@@ -1207,7 +1207,7 @@
                   }
                 }
               }
-            },
+            }
           },
           "summary": "Convert result set rows from array to objects",
           "description": "Convert result set rows from array to objects",
